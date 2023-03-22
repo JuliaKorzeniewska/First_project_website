@@ -1,3 +1,3 @@
 # First_project_website
 
-2
+Website using HTML and CSS.
