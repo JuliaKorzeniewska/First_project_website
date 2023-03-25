@@ -129,6 +129,7 @@ ul {
   height: 200px;
   background-size: cover;
   border-radius: 50%;
+  margin-bottom: 20px;
 }
 
 .specialist {
@@ -148,15 +149,16 @@ ul {
 .name {
   font-weight: 700;
   margin-bottom: 30px;
+  font-size: 18px;
 }
 
 .description {
   font-weight: 400;
+  font-size: 18px;
 }
 
 .specialist:nth-of-type(odd) .specialist-img {
   background-image: url(assets/user1.jpg);
-  margin-bottom: 20px;
 }
 
 .specialist:nth-of-type(even) .specialist-img {
